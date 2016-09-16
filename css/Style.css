@@ -1,0 +1,26 @@
+.indications-phrase{
+    
+    font-size: 20px;
+    text-decoration: underline;
+    margin-bottom: 35px;
+}
+
+.indications-bussines-name{
+    
+    color: #0a0a41;
+}
+
+footer{
+    
+    background-color: #0f0f0f;
+}
+
+
+footer p {
+    
+    padding: 15px 0px;
+    text-align: center;
+    color: white;
+}
+
+
