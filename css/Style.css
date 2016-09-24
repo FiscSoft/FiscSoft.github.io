@@ -1,26 +1,38 @@
+
+/* INICIO ===== Estilo das indicações de outros clientes*/
 .indications-phrase{
     
     font-size: 20px;
     text-decoration: underline;
     margin-bottom: 35px;
 }
-
 .indications-bussines-name{
     
     color: #0a0a41;
 }
+/* FIM ====  Estilo das indicações de outros clientes*/
 
+
+/* INICIO ===== Estilo FOOTER*/
 footer{
     
     background-color: #0f0f0f;
 }
-
-
 footer p {
     
     padding: 15px 0px;
     text-align: center;
     color: white;
+    margin-bottom: 0px;
+}
+
+/* FIM ===== Estilo FOOTER*/
+
+
+/*Ajustar a margem dos rows para que a visão vertical não fique grudada*/
+.row{
+    
+    margin-bottom: 10px;
 }
 
 
