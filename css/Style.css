@@ -33,6 +33,26 @@ footer p {
 .row{
     
     margin-bottom: 10px;
+    margin-right: 0px;
+}
+
+.about h3, .about h2{
+    
+
+    text-decoration: underline;
+    margin-top: 20px;
+    color: #3b3b3b;
+}
+
+.product-box{
+    
+    border: 1px solid #727272;
+    
+}
+
+.panel-contact .input-group{
+    
+    margin-bottom: 15px;
 }
 
 
