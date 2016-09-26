@@ -1,9 +1,13 @@
+.h2{
+    
+    font-family: 'Baloo Bhai', cursive;
+}
 
 /* INICIO ===== Estilo das indicações de outros clientes*/
 .indications-phrase{
     
     font-size: 20px;
-    text-decoration: underline;
+    font-weight: bold;
     margin-bottom: 35px;
 }
 .indications-bussines-name{
@@ -54,5 +58,7 @@ footer p {
     
     margin-bottom: 15px;
 }
+
+
 
 
