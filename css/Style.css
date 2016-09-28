@@ -55,6 +55,18 @@ footer p {
     margin-bottom: 15px;
 }
 
+.acess-panel .panel-body ul{
+    
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.acess-panel .panel-body ul li{
+    
+   margin-bottom: 10px;
+}
+
+
 
 
 
